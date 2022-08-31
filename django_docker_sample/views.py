@@ -2,4 +2,4 @@ from django.shortcuts import HttpResponse
 
 
 def index(request):
-    return HttpResponse("<h1>hello world. This code is working !!</h1>")
+    return HttpResponse("<h1>Welcome to Pycharm debugging !!!!!!!!!</h1>")
